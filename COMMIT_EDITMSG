@@ -1,0 +1,10 @@
+Fix crash on quiz page by adding missing import
+
+Add `Badge` component to the import list in `artifacts/investment-advisor/src/pages/quiz.tsx` to resolve a runtime error.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: cb34ebc5-5abc-4c79-9e40-878a47fb1a6e
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: d05b447e-87d0-4afc-9931-3c61ddd606cc
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/9a2e7743-fedd-4b3e-8806-380d43217462/cb34ebc5-5abc-4c79-9e40-878a47fb1a6e/f78QtH3
+Replit-Helium-Checkpoint-Created: true
